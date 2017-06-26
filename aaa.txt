@@ -1,1 +1,2 @@
-aaaaaaa
+This is aaa.txt.
+The init to now.
